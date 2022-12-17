@@ -22,4 +22,20 @@ This project creates a digital clock using Turtlr library of Python
 * Next, the code hides both turtles and waits for a second.
 * Once a second has passed, it displays time by writing.
 
+<img src="data/Screenshot (7).png" height="240" >
 
+
+
+## Libraries
+* Time
+* Turtle
+
+
+
+## Requirements
+* Visual studio code
+* Python
+
+## Code 
+
+* [Code](code/main.py)
